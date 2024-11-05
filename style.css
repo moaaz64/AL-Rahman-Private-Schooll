@@ -9,7 +9,7 @@
 }
 body{
     overflow: scroll;
-    background: url(https://scontent.fcai19-5.fna.fbcdn.net/v/t39.30808-6/443696064_764664159159713_2948367995258866100_n.png?_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=XecI-aCajFIQ7kNvgGWgH3k&_nc_zt=23&_nc_ht=scontent.fcai19-5.fna&_nc_gid=A9YdHi-hkOn9l1ZFbiHzg4G&oh=00_AYCqENrt2WNbSc8eGayhef1FMA1uq74iDp_7XFv_R4K5ng&oe=67301535) center no-repeat;
+    background: url('https://scontent.fcai19-5.fna.fbcdn.net/v/t39.30808-6/443696064_764664159159713_2948367995258866100_n.png?_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=XecI-aCajFIQ7kNvgGWgH3k&_nc_zt=23&_nc_ht=scontent.fcai19-5.fna&_nc_gid=A9YdHi-hkOn9l1ZFbiHzg4G&oh=00_AYCqENrt2WNbSc8eGayhef1FMA1uq74iDp_7XFv_R4K5ng&oe=67301535') center no-repeat;
     width: 100%;
     height: 100vh;
 }
